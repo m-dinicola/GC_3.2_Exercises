@@ -1,0 +1,13 @@
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\bin\Debug\netcoreapp3.1\3.2_GC_Exercises.exe
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\bin\Debug\netcoreapp3.1\3.2_GC_Exercises.deps.json
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\bin\Debug\netcoreapp3.1\3.2_GC_Exercises.runtimeconfig.json
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\bin\Debug\netcoreapp3.1\3.2_GC_Exercises.runtimeconfig.dev.json
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\bin\Debug\netcoreapp3.1\3.2_GC_Exercises.dll
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\bin\Debug\netcoreapp3.1\3.2_GC_Exercises.pdb
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\obj\Debug\netcoreapp3.1\3.2_GC_Exercises.csprojAssemblyReference.cache
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\obj\Debug\netcoreapp3.1\3.2_GC_Exercises.AssemblyInfoInputs.cache
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\obj\Debug\netcoreapp3.1\3.2_GC_Exercises.AssemblyInfo.cs
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\obj\Debug\netcoreapp3.1\3.2_GC_Exercises.csproj.CoreCompileInputs.cache
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\obj\Debug\netcoreapp3.1\3.2_GC_Exercises.dll
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\obj\Debug\netcoreapp3.1\3.2_GC_Exercises.pdb
+U:\Mario\source\repos\3.2_GC_Exercises\3.2_GC_Exercises\obj\Debug\netcoreapp3.1\3.2_GC_Exercises.genruntimeconfig.cache
